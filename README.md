@@ -1,0 +1,4 @@
+- Ethers js is much smaller in size than web3 wich loads your dapp faster
+- no compile dependencies, which were causing some issues for windows users for web3
+- written in typescript
+- better structure API
