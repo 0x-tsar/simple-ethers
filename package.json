@@ -27,6 +27,7 @@
     "ethers": "^5.5.1"
   },
   "devDependencies": {
-    "prettier": "^2.4.1"
+    "prettier": "^2.4.1",
+    "truffle-plugin-verify": "^0.5.18"
   }
 }
