@@ -1,0 +1,28 @@
+{
+  "name": "ethers-simple",
+  "version": "1.0.0",
+  "description": "- Ethers js is much smaller in size than web3 wich loads your dapp faster - no compile dependencies, which were causing some issues for windows users for web3 - written in typescript - better structure API - just learn it if you already know web3..",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BronzeDisc/simple-ethers.git"
+  },
+  "keywords": [],
+  "author": "Gustavo Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BronzeDisc/simple-ethers/issues"
+  },
+  "homepage": "https://github.com/BronzeDisc/simple-ethers#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "@truffle/hdwallet-provider": "^1.6.0",
+    "dotenv": "^10.0.0"
+  }
+}

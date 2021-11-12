@@ -2,3 +2,4 @@
 - no compile dependencies, which were causing some issues for windows users for web3
 - written in typescript
 - better structure API
+- just learn it if you already know web3..
